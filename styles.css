@@ -1,0 +1,23 @@
+div {
+  background-color: yellow;
+  width: 500px;
+  height: 800px;
+  background: yellow;
+  margin: auto;
+  padding: 15px;
+  color: blue;
+  font-size: 25px;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3 {
+  text-align: auto;
+}
+
+.completed {
+  text-decoration: line-through;
+}
